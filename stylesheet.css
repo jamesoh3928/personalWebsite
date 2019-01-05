@@ -1,0 +1,51 @@
+.header {
+	padding: 100px; /* some padding */
+	text-align: center; /* center the text */
+	background: #4ABDAC; /* LightCyan  background */
+	color: White; /* white text color */
+}
+
+.header h1 {
+	font-size: 40px;
+}
+
+.header p {
+	font-size: 30px;
+}
+
+.description {
+	padding: 150px;
+	text-align: center;
+	background: #F7B733;
+	color: White;
+}
+
+.description h1{
+	font-size: 30px;
+}
+
+.description p{
+	font-size: 20px;
+}
+
+.button {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.navbar a {
+  float: left; /* Make sure that the links stay side-by-side */
+  display: block; /* Change the display to block, for responsive reasons (see below) */
+  color: white; /* White text color */
+  text-align: center; /* Center the text */
+  padding: 14px 20px; /* Add some padding */
+  text-decoration: none; /* Remove underline */
+}
+
+/**Vermillion: #FC4A1A – A figure in the foreground is worked into the context, still paying attention to how it complements the overall structure of the design. In fact one might even be able to surmise that the design was down around this figure. 
+
+Sunshine: #F7B733 – The Yellow provides only a juxtaposed call to action and highlights imporant parts
+
+Clean: #DFDCE3 – Clean grey, utilized in the photograph, keeps the structure un-encomberred by more colors or patterns in these sharp headshots.*/
