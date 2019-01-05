@@ -14,7 +14,6 @@
 }
 
 .description {
-	padding: 150px;
 	padding-top: 100px;
 	text-align: center;
 	background: #F7B733;
@@ -27,6 +26,8 @@
 
 .description p{
 	font-size: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 .skills h1{
@@ -42,9 +43,22 @@
 
 .row_navbar {
 	padding-top: 50px;
+	padding-bottom: 100px;
 }
 
+.contacts {
+	background: #DFDCE3;
+	text-align: center;
+	padding-bottom:10px;
+}
 
+.contacts h1{
+	font-size: 20px;
+}
+
+.contacts p{
+	font-size: 15px;
+}
 
 
 /**Vermillion: #FC4A1A – A figure in the foreground is worked into the context, still paying attention to how it complements the overall structure of the design. In fact one might even be able to surmise that the design was down around this figure. 
